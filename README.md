@@ -1,2 +1,2 @@
-# Youtube videos datasets and PowerPoint slides
+# Datasets and PowerPoint slides for the Youtube videos
 
